@@ -1,0 +1,9 @@
+.idea/
+vendor/
+config.php
+LICENSE
+CONTRIBUTING.md
+Vagrantfile
+Procfile
+readme.md
+storage/*
